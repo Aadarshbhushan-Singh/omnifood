@@ -1,0 +1,39 @@
+@media only screen and (max-width: 1200px){
+	.hero-text-box {
+		width: 100%;
+		padding: 0 8%;
+	}
+	.row{
+		padding: 0 8%;
+	}
+}
+
+
+
+@media only screen and (max-width: 1023px){
+	body{ font-size: 18px; }
+	.long-copy {
+		width: 80%;
+		margin-left: 10%;
+	}	
+	.steps-box{margin-top: 10px;}
+	.steps-box:last-child {margin-top: 10px;}
+	.works-steps {margin-bottom: 40px;}
+	.works-step:last-of-type{margin-bottom: 80px;}
+	.app-screen{width: 50%;}
+	.plan-box ion-icons{width: 17px;
+						margin-right: 10px;}
+	.city-feature{font-size: 90%;}
+	.plan-box{width: 100%;
+		margin-left: 0%;}
+	.plan-price{font-size: 250%;}
+}
+
+@media only screen and (max-width: 767px){
+	body{font-size: 16px;}
+
+}
+
+@media only screen and (max-width: 480px){
+
+}
